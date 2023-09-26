@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YTMusicDesktop", "YTMusicDesktop.csproj", "{E57FF244-D1B9-4B4D-9DC1-ECAB2F7B7C3C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "YTMDSetup", "..\YTMDSetup\YTMDSetup.vdproj", "{79CCB76A-9125-4F0C-A040-5E93BEB02533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E57FF244-D1B9-4B4D-9DC1-ECAB2F7B7C3C}.Debug|x64.ActiveCfg = Debug|x64
+		{E57FF244-D1B9-4B4D-9DC1-ECAB2F7B7C3C}.Debug|x64.Build.0 = Debug|x64
+		{E57FF244-D1B9-4B4D-9DC1-ECAB2F7B7C3C}.Release|x64.ActiveCfg = Release|x64
+		{E57FF244-D1B9-4B4D-9DC1-ECAB2F7B7C3C}.Release|x64.Build.0 = Release|x64
+		{79CCB76A-9125-4F0C-A040-5E93BEB02533}.Debug|x64.ActiveCfg = Debug
+		{79CCB76A-9125-4F0C-A040-5E93BEB02533}.Release|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E942EA70-ABE8-4D23-BBB3-D0C5F731E990}
+	EndGlobalSection
+EndGlobal
